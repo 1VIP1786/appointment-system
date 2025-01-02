@@ -147,6 +147,6 @@ Contact
 For questions or feedback, feel free to reach out:
 
 - **Vipul Patil**
-- Email: [vipulpatil@gmail.com](mailto:vipulpatil1786@gmail.com)
-- GitHub: [1VIP178](https://github.com/1VIP1786)
+- Email: [vipulpatil1786@gmail.com](mailto:vipulpatil1786@gmail.com)
+- GitHub: [1VIP1786](https://github.com/1VIP1786)
 
