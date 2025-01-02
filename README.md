@@ -1,4 +1,4 @@
-Appointment Booking System : 
+Appointment Booking System
 The Appointment Booking System is a web application built with FastAPI, designed to facilitate seamless appointment scheduling between students and professors. It includes features for user authentication, managing availability, and booking appointments.
 
 Key Features
@@ -29,8 +29,8 @@ Authentication: Bcrypt for secure password hashing
 
 Testing Tools: Postman, cURL
 
-##Getting Started
-###Prerequisites
+Getting Started
+Prerequisites
 Python 3.8 or higher: Ensure Python is installed on your system.
 
 Google Cloud Account: Create a Google Cloud account and enable Firestore.
@@ -38,7 +38,7 @@ Google Cloud Account: Create a Google Cloud account and enable Firestore.
 Firestore Credentials: Download the Firestore credentials JSON file.
 
 Local Setup
-###Clone the Repository:
+Clone the Repository:
 
 bash
 Copy
@@ -57,7 +57,7 @@ Copy
 pip install -r requirements.txt
 Configure Environment Variables:
 
-###Set the path to your Firestore credentials:
+Set the path to your Firestore credentials:
 
 bash
 Copy
